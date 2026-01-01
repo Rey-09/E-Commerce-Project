@@ -11,16 +11,6 @@ The system simulates a real e-commerce workflow, where users can browse products
 
 ---
 
-## 👨‍🏫 Lecturer
-**Mr. Ahmad Fadhil N**
-
----
-
-## 👥 Group Members
-- **Rieka Zalsa Nabila** (012202400020)  
-- **Inayah Nur A’ini** (012202400111)
-
----
 
 ## 🛠️ Technologies Used
 - **Front-End:** HTML, CSS, JavaScript  
