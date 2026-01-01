@@ -111,7 +111,7 @@ The system simulates a real e-commerce workflow, where users can browse products
 2. Start **Apache** and **MySQL**
 3. Place the project folder inside:
 
-##Output:
+## Output:
 <img width="941" height="429" alt="image" src="https://github.com/user-attachments/assets/be7c9d43-9578-4fe4-9a8f-47c9973ae664" />
 <img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/416b7fe0-f0a1-4831-b37d-4a1bf8c9f818" />
 <img width="941" height="429" alt="image" src="https://github.com/user-attachments/assets/0f755943-c21d-4ddd-ad11-26ac2c3d968d" />
